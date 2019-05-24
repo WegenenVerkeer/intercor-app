@@ -1,0 +1,21 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:inputType="textCapWords"
+        android:key="team_name"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_team_name" />
+
+    <EditTextPreference
+        android:inputType="number"
+        android:key="time_span"
+        android:singleLine="true"
+        android:selectAllOnFocus="true"
+        android:title="Time Span deselection icons (minutes)"
+        android:defaultValue="5"
+        />
+
+</PreferenceScreen>

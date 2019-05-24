@@ -1,0 +1,19 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:inputType="number"
+        android:key="sync_local"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:defaultValue="2"
+        android:title="@string/pref_title_sync_local" />
+
+    <EditTextPreference
+        android:inputType="number"
+        android:key="sync_external"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:defaultValue="10"
+        android:title="@string/pref_title_sync_external" />
+
+</PreferenceScreen>

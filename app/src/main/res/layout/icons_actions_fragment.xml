@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ImageButton
+        android:id="@+id/maximizeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/maximize"
+        android:translationZ="2dp"
+        android:padding="8dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="toggleMaximizationView"
+        android:background="@drawable/bg_button"
+        android:src="@drawable/ic_launch_black_24dp"
+        android:rotation="-90"
+        android:fillAfter="true"
+        android:fillEnabled="true"
+        android:layout_alignParentTop="true"
+        android:translationY="5dp"
+        android:translationX="5dp"/>
+    <GridView
+        android:id="@+id/icons"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="auto_fit"
+        android:columnWidth="80dp"
+        android:gravity="center"
+        android:verticalSpacing="3dp"
+        android:horizontalSpacing="3dp"
+        android:padding="3dp" />
+</android.support.constraint.ConstraintLayout>
