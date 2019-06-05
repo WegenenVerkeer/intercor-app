@@ -1,0 +1,25 @@
+position;message;type;detail;urlIcon
+1;blank;blank;blank;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2Fblank.png?alt=media&token=<token>
+2;RWW;DENM;3-0;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FRWW.png?alt=media&token=<token>
+3;any other warning;DENM;99;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FAnyOtherWarning.png?alt=media&token=<token>
+4;accident;DENM;2-0;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FAccident.png?alt=media&token=<token>
+5;clear lane to left;IVI;13-661;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FClearLaneToLeft.png?alt=media&token=<token>
+6;clear lane to right;IVI;13-662;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FClearLaneToRight.png?alt=media&token=<token>
+7;lane closed;IVI;13-659;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FLaneClosed.png?alt=media&token=<token>
+8;lane free;IVI;13-660;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FLaneFree.png?alt=media&token=<token>
+9;speedLimitMax 30;IVI;12-557;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FSpeedLimitMax30.png?alt=media&token=<token>
+10;speedLimitMax 50;IVI;12-557;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FSpeedLimitMax50.png?alt=media&token=<token>
+11;speedLimitMax 60;IVI;12-557;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FSpeedLimitMax60.png?alt=media&token=<token>
+12;speedLimitMax 70;IVI;12-557;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FSpeedLimitMax70.png?alt=media&token=<token>
+13;speedLimitMax 80;IVI;12-557;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FSpeedLimitMax80.png?alt=media&token=<token>
+14;speedLimitMax 90;IVI;12-557;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FSpeedLimitMax90.png?alt=media&token=<token>
+15;speedLimitMax 100;IVI;12-557;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FSpeedLimitMax100.png?alt=media&token=<token>
+16;speedLimitMax 110;IVI;12-557;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FSpeedLimitMax110.png?alt=media&token=<token>
+17;speedLimitEnd;IVI;12-663;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FSpeedLimitEnd.png?alt=media&token=<token>
+18;Free Text;IVI;extratext;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FFreeText.png?alt=media&token=<token>
+19;SPAT left;SPAT;left;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2Ftraffic%20signal%20left.png?alt=media&token=<token>
+20;SPAT straight;SPAT;straight;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2Ftraffic%20signal%20straight.png?alt=media&token=<token>
+21;SPAT right;SPAT;right;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2Ftraffic%20signal%20right.png?alt=media&token=<token>
+22;SPAT general;SPAT;general;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2Ftraffic%20signal%20normal.png?alt=media&token=<token>
+23;thumbs-up;THUMB;up;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FThumbs-Up.png?alt=media&token=<token>
+24;thumbs-down;THUMB;down;https://firebasestorage.googleapis.com/v0/b/<projectname>.appspot.com/o/icons%2FThumbs-Down.png?alt=media&token=<token>
