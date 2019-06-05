@@ -1,6 +1,10 @@
 # intercor-app
 An android app to track position and on-board messages. A user can select icons below a map. The position and icon selection is stored in a local CSV that is synced regularly to Google Team Drive.
 
+![app workflow](https://raw.githubusercontent.com/wegenenverkeer/intercor-app/master/eu-funding.png)  
+Grant Agreement No: INEA/CEF/TRAN/M2015/1143833  
+Action No: 2015-EU-TM-0159-S
+
 Step-by-step developer guide
 ============================
 - STEP 1: Install Android Studio
